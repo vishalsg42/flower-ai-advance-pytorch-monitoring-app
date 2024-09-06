@@ -1,0 +1,10 @@
+flwr==1.10.0
+torch==2.4.0
+torchvision==0.19.0
+tqdm==4.66.5
+flwr-datasets==0.3.0
+ray==2.34.0
+scikit-learn==1.5.1
+GPUtil==1.4.0
+wandb==0.17.7
+flwr-monitoring==0.1.0
